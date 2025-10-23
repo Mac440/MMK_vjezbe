@@ -1,0 +1,77 @@
+
+body {
+  font-family: 'BBH Sans Bartle', sans-serif;
+  background-color: #e6faff; /* vrlo svijetla cijan pozadina */
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0 20px;
+}
+
+
+header {
+  background-color: #ff00ff; /* magenta */
+  padding: 28px 20px;
+}
+
+h1 {
+  font-family: 'BBH Sans Bartle', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin: 0;
+  color: #ffffff; /* bijeli tekst na magenti */
+  font-size: 1.8rem;
+}
+
+
+main {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 12px;
+}
+
+section {
+  background-color: #ffffff;
+  border: 3px solid #00ffff; /* puni cijan obrub */
+  margin: 18px 0;
+  padding: 18px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 255, 255, 0.2);
+}
+
+article {
+  background-color: #f9e6ff; /* svijetla magenta nijansa */
+  border-left: 4px solid #ff00ff;
+  margin: 12px 0;
+  padding: 14px;
+}
+
+p {
+  font-family: 'BBH Sans Bartle', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #1a1a1a;
+  line-height: 1.6;
+  margin: 0 0 12px 0;
+}
+
+h2, h3 {
+  font-family: 'BBH Sans Bartle', sans-serif;
+  color: #ff00ff; /* magenta naslov */
+  font-weight: 600;
+}
+
+a {
+  color: #00ffff; /* cijan link */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #ff00ff; /* magenta na hover */
+  text-decoration: underline;
+}
+
+
+
+
+
