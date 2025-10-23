@@ -1,7 +1,7 @@
 
 body {
   font-family: 'BBH Sans Bartle', sans-serif;
-  background-color: #e6faff; /* vrlo svijetla cijan pozadina */
+  background-color: #e6faff; 
   color: #1a1a1a;
   margin: 0;
   padding: 0 20px;
@@ -9,7 +9,7 @@ body {
 
 
 header {
-  background-color: #ff00ff; /* magenta */
+  background-color: #ff00ff; 
   padding: 28px 20px;
 }
 
@@ -18,7 +18,7 @@ h1 {
   font-weight: 700;
   font-style: normal;
   margin: 0;
-  color: #ffffff; /* bijeli tekst na magenti */
+  color: #ffffff; 
   font-size: 1.8rem;
 }
 
@@ -31,7 +31,7 @@ main {
 
 section {
   background-color: #ffffff;
-  border: 3px solid #00ffff; /* puni cijan obrub */
+  border: 3px solid #00ffff; 
   margin: 18px 0;
   padding: 18px;
   border-radius: 8px;
@@ -39,7 +39,7 @@ section {
 }
 
 article {
-  background-color: #f9e6ff; /* svijetla magenta nijansa */
+  background-color: #f9e6ff; 
   border-left: 4px solid #ff00ff;
   margin: 12px 0;
   padding: 14px;
@@ -56,20 +56,16 @@ p {
 
 h2, h3 {
   font-family: 'BBH Sans Bartle', sans-serif;
-  color: #ff00ff; /* magenta naslov */
+  color: #ff00ff; 
   font-weight: 600;
 }
 
 a {
-  color: #00ffff; /* cijan link */
+  color: #00ffff;
   text-decoration: none;
   font-weight: 600;
 }
 
-a:hover {
-  color: #ff00ff; /* magenta na hover */
-  text-decoration: underline;
-}
 
 
 
